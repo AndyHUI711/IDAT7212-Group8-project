@@ -1,7 +1,7 @@
 # IDAT7212 Group8 project
  Using Arduino Mega, ESP8266, ESP32-CAM, AI, YoloV5 for smart farming
 
-[# 1. Libraries ]()
+# 1. Libraries
 **It includes libraries been used in this project.**
 # 2. Arduino Mega
 **It includes an arduino ino file.** 
