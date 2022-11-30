@@ -1,0 +1,31 @@
+{
+  "cpu": {
+    "fqbn": "esp8266:esp8266:nodemcuv2:baud=115200,dbg=Disabled,eesz=4M,exception=disabled,ip=lm2f,lvl=None____,vt=flash,wipe=none,xtal=80",
+    "name": "NodeMCU 1.0 (ESP-12E Module)",
+    "type": "serial"
+  },
+  "secrets": [
+    {
+      "name": "SECRET_SSID",
+      "value": ""
+    },
+    {
+      "name": "SECRET_OPTIONAL_PASS",
+      "value": ""
+    },
+    {
+      "name": "SECRET_DEVICE_KEY",
+      "value": ""
+    }
+  ],
+  "included_libs": [
+    {
+      "name": "Adafruit NeoPixel",
+      "version": "1.8.0"
+    },
+    {
+      "name": "ArduinoJson",
+      "version": "6.14.0"
+    }
+  ]
+}
